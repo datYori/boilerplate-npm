@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Yann Bouzonie",
+	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +11,5 @@
 	},
 	"repository": {
 		"type": "git"
-	},
-	"author": "Yann Bouzonie"
+	}
 }
