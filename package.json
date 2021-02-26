@@ -3,6 +3,7 @@
 	"author": "Yann Bouzonie",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "tutos", "apis" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
